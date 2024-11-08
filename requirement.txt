@@ -1,0 +1,7 @@
+faiss-cpu
+sentence-transformers
+fastapi
+openai
+gradio
+pypdf2
+langchain_community
